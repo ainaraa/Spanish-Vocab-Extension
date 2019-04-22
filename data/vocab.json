@@ -1,0 +1,1864 @@
+[
+  {
+    "word":"Hola",
+    "type":"noun",
+    "definition":"Greeting, Hello",
+    "sentence": "Hola chica"
+  },
+  {
+    "word":"Beso",
+    "type":"noun",
+    "definition":"A kiss",
+    "sentence": "Mas besos por favor"
+  },
+  {
+    "word":"Pulpo",
+    "type":"noun",
+    "definition":"Squid",
+    "sentence": "El Pulpo assado de El Mar es deliciouso"
+  },
+  {
+    "word": "el abrigo",
+    "definition": "the coat"
+  },
+  {
+    "word": "la agujeta",
+    "definition": "the shoelace"
+  },
+  {
+    "word": "los calcetines",
+    "definition": "socks"
+  },
+  {
+    "word": "el calzoncillo",
+    "definition": "under shorts"
+  },
+  {
+    "word": "la camisa",
+    "definition": "shirt"
+  },
+  {
+    "word": "la camiseta",
+    "definition": "undershirt"
+  },
+  {
+    "word": "la corbata",
+    "definition": "tie"
+  },
+  {
+    "word": "la gorbata",
+    "definition": "the tie"
+  },
+  {
+    "word": "la gorra",
+    "definition": "the ballcap"
+  },
+  {
+    "word": "el lazo",
+    "definition": "string tie"
+  },
+  {
+    "word": "el overol, el peto",
+    "definition": "overalls"
+  },
+  {
+    "word": "la pajarita",
+    "definition": "bow tie"
+  },
+  {
+    "word": "los pantalones",
+    "definition": "trousers"
+  },
+  {
+    "word": "el sombrero",
+    "definition": "the hat"
+  },
+  {
+    "word": "el suéter",
+    "definition": "the sweater"
+  },
+  {
+    "word": "el suspensorio",
+    "definition": "athletic supporter"
+  },
+  {
+    "word": "el traje",
+    "definition": "suit"
+  },
+  {
+    "word": "los zapatos",
+    "definition": "shoes"
+  },
+  {
+    "word": "el algodón",
+    "definition": "the cotton"
+  },
+  {
+    "word": "la blusa",
+    "definition": "blouse"
+  },
+  {
+    "word": "la bolsa",
+    "definition": "handbag"
+  },
+  {
+    "word": "el bustillo",
+    "definition": "camisole"
+  },
+  {
+    "word": "la cierre",
+    "definition": "the zipper"
+  },
+  {
+    "word": "el cinturón",
+    "definition": "belt"
+  },
+  {
+    "word": "la falda",
+    "definition": "skirt"
+  },
+  {
+    "word": "los guantes",
+    "definition": "the gloves"
+  },
+  {
+    "word": "las medias",
+    "definition": "stockings"
+  },
+  {
+    "word": "la pijama",
+    "definition": "the pajama(s)"
+  },
+  {
+    "word": "la pantaleta",
+    "definition": "panties"
+  },
+  {
+    "word": "la pantimedia",
+    "definition": "pantyhose"
+  },
+  {
+    "word": "el refajo",
+    "definition": "slip"
+  },
+  {
+    "word": "las sandalias",
+    "definition": "sandals"
+  },
+  {
+    "word": "el velcro",
+    "definition": "the velcro"
+  },
+  {
+    "word": "el vestido",
+    "definition": "dress"
+  },
+  {
+    "word": "los zapatos de tacón alto",
+    "definition": "high heels"
+  },
+  {
+    "word": "el árbol",
+    "definition": "tree"
+  },
+  {
+    "word": "el arbusto",
+    "definition": "bush"
+  },
+  {
+    "word": "el botón",
+    "definition": "bud"
+  },
+  {
+    "word": "el bulbo",
+    "definition": "bulb"
+  },
+  {
+    "word": "el cactus",
+    "definition": "cactus"
+  },
+  {
+    "word": "la enredadera",
+    "definition": "vine"
+  },
+  {
+    "word": "la flor",
+    "definition": "flower"
+  },
+  {
+    "word": "la hoja",
+    "definition": "leaf"
+  },
+  {
+    "word": "la margarita",
+    "definition": "daisy"
+  },
+  {
+    "word": "la orquídea",
+    "definition": "orchid"
+  },
+  {
+    "word": "el tallo",
+    "definition": "stem"
+  },
+  {
+    "word": "el tulipán",
+    "definition": "tulip"
+  },
+  {
+    "word": "la violeta",
+    "definition": "violet"
+  },
+  {
+    "word": "la rosa",
+    "definition": "rose"
+  },
+  {
+    "word": "la abeja",
+    "definition": "bee"
+  },
+  {
+    "word": "el alacrán",
+    "definition": "scorpion"
+  },
+  {
+    "word": "el alce",
+    "definition": "moose"
+  },
+  {
+    "word": "el águila",
+    "definition": "eagle"
+  },
+  {
+    "word": "la anguila",
+    "definition": "eel"
+  },
+  {
+    "word": "la araña",
+    "definition": "spider"
+  },
+  {
+    "word": "la ardilla",
+    "definition": "squirrel"
+  },
+  {
+    "word": "la ardillita",
+    "definition": "chipmunk"
+  },
+  {
+    "word": "el armadillo",
+    "definition": "armadillo"
+  },
+  {
+    "word": "el bisonte",
+    "definition": "bison"
+  },
+  {
+    "word": "el búho, la lechuza",
+    "definition": "owl"
+  },
+  {
+    "word": "el burro",
+    "definition": "donkey"
+  },
+  {
+    "word": "el caballo",
+    "definition": "horse"
+  },
+  {
+    "word": "la cabra",
+    "definition": "goat"
+  },
+  {
+    "word": "el caimán",
+    "definition": "alligator"
+  },
+  {
+    "word": "el camaleón",
+    "definition": "chameleon"
+  },
+  {
+    "word": "el cardenal",
+    "definition": "cardinal"
+  },
+  {
+    "word": "la cebra",
+    "definition": "zebra"
+  },
+  {
+    "word": "el cerdo",
+    "definition": "hog"
+  },
+  {
+    "word": "el cocodrilo",
+    "definition": "crocodile"
+  },
+  {
+    "word": "el colibrí",
+    "definition": "hummingbird"
+  },
+  {
+    "word": "el colmillo",
+    "definition": "tusk"
+  },
+  {
+    "word": "el conejo",
+    "definition": "rabbit"
+  },
+  {
+    "word": "el cisne",
+    "definition": "swan"
+  },
+  {
+    "word": "la cucaracha",
+    "definition": "cockroach"
+  },
+  {
+    "word": "el cuerno",
+    "definition": "antler"
+  },
+  {
+    "word": "el cuervo",
+    "definition": "crow"
+  },
+  {
+    "word": "el elefante",
+    "definition": "elephant"
+  },
+  {
+    "word": "el escarabajo",
+    "definition": "beetle"
+  },
+  {
+    "word": "el gato",
+    "definition": "cat"
+  },
+  {
+    "word": "la gaviota",
+    "definition": "seagull"
+  },
+  {
+    "word": "el gorrión",
+    "definition": "sparrow"
+  },
+  {
+    "word": "el grillo",
+    "definition": "cricket"
+  },
+  {
+    "word": "el gusano de seda",
+    "definition": "caterpillar"
+  },
+  {
+    "word": "el halcón",
+    "definition": "hawk"
+  },
+  {
+    "word": "el hipopótamo",
+    "definition": "hippopotamus"
+  },
+  {
+    "word": "la hormiga",
+    "definition": "ant"
+  },
+  {
+    "word": "la iguana",
+    "definition": "iguana"
+  },
+  {
+    "word": "la jirafa",
+    "definition": "giraffe"
+  },
+  {
+    "word": "la lagartija",
+    "definition": "lizard"
+  },
+  {
+    "word": "el león",
+    "definition": "lion"
+  },
+  {
+    "word": "la libélula",
+    "definition": "dragonfly"
+  },
+  {
+    "word": "la llama",
+    "definition": "llama"
+  },
+  {
+    "word": "el loro",
+    "definition": "parrot"
+  },
+  {
+    "word": "la mantis",
+    "definition": "mantis"
+  },
+  {
+    "word": "la mariposa",
+    "definition": "butterfly"
+  },
+  {
+    "word": "el mono",
+    "definition": "monkey"
+  },
+  {
+    "word": "la mosca",
+    "definition": "fly"
+  },
+  {
+    "word": "el mosquito",
+    "definition": "mosquito"
+  },
+  {
+    "word": "el pájaro carpintero",
+    "definition": "woodpecker"
+  },
+  {
+    "word": "la paloma",
+    "definition": "dove"
+  },
+  {
+    "word": "el perro",
+    "definition": "dog"
+  },
+  {
+    "word": "el petirrojo",
+    "definition": "robin"
+  },
+  {
+    "word": "el pez espada",
+    "definition": "swordfish"
+  },
+  {
+    "word": "el oso",
+    "definition": "bear"
+  },
+  {
+    "word": "la oveja",
+    "definition": "sheep"
+  },
+  {
+    "word": "la rana",
+    "definition": "frog"
+  },
+  {
+    "word": "la rata",
+    "definition": "rat"
+  },
+  {
+    "word": "el ratón",
+    "definition": "mouse"
+  },
+  {
+    "word": "la raya",
+    "definition": "stingray"
+  },
+  {
+    "word": "el renacuajo",
+    "definition": "tadpole"
+  },
+  {
+    "word": "el rinoceronte",
+    "definition": "rhinoceros"
+  },
+  {
+    "word": "el salmón",
+    "definition": "salmon"
+  },
+  {
+    "word": "el saltamontes",
+    "definition": "grasshopper"
+  },
+  {
+    "word": "el tiburón",
+    "definition": "shark"
+  },
+  {
+    "word": "el tigre",
+    "definition": "tiger"
+  },
+  {
+    "word": "la tortuga",
+    "definition": "turtle"
+  },
+  {
+    "word": "la trompa",
+    "definition": "trunk"
+  },
+  {
+    "word": "la trucha",
+    "definition": "trout"
+  },
+  {
+    "word": "la vaca",
+    "definition": "cow"
+  },
+  {
+    "word": "el venado",
+    "definition": "deer"
+  },
+  {
+    "word": "la víbora",
+    "definition": "snake"
+  },
+  {
+    "word": "el zorro",
+    "definition": "fox"
+  },
+  {
+    "word": "el zancudo",
+    "definition": "mosquito"
+  },
+  {
+    "word": "tenis",
+    "definition": "tennis"
+  },
+  {
+    "word": "básquetbol",
+    "definition": "basketball"
+  },
+  {
+    "word": "golf",
+    "definition": "golf"
+  },
+  {
+    "word": "fútbol",
+    "definition": "soccer"
+  },
+  {
+    "word": "fútbol",
+    "definition": "football"
+  },
+  {
+    "word": "voleibol",
+    "definition": "americano volleyball"
+  },
+  {
+    "word": "ping pong",
+    "definition": "ping pong"
+  },
+  {
+    "word": "bádminton",
+    "definition": "badminton"
+  },
+  {
+    "word": "béisbol",
+    "definition": "baseball"
+  },
+  {
+    "word": "jockey",
+    "definition": "hockey"
+  },
+  {
+    "word": "rugby",
+    "definition": "rugby"
+  },
+  {
+    "word": "ciclismo",
+    "definition": "cycling"
+  },
+  {
+    "word": "críquet",
+    "definition": "cricket"
+  },
+  {
+    "word": "equitación",
+    "definition": "horseback riding"
+  },
+  {
+    "word": "natación",
+    "definition": "swimming"
+  },
+  {
+    "word": "el partido",
+    "definition": "the game (sporting event)"
+  },
+  {
+    "word": "el equipo",
+    "definition": "the team"
+  },
+  {
+    "word": "rojo",
+    "definition": "red"
+  },
+  {
+    "word": "azul",
+    "definition": "blue"
+  },
+  {
+    "word": "amarillo",
+    "definition": "yellow"
+  },
+  {
+    "word": "verde",
+    "definition": "green"
+  },
+  {
+    "word": "violeta",
+    "definition": "violet"
+  },
+  {
+    "word": "morado",
+    "definition": "purple"
+  },
+  {
+    "word": "anaranjado",
+    "definition": "orange"
+  },
+  {
+    "word": "rosa",
+    "definition": "pink"
+  },
+  {
+    "word": "marrón",
+    "definition": "brown"
+  },
+  {
+    "word": "negro",
+    "definition": "black"
+  },
+  {
+    "word": "blanco",
+    "definition": "white"
+  },
+  {
+    "word": "los géneros",
+    "definition": "the genres"
+  },
+  {
+    "word": "la guitarra",
+    "definition": "the guitar"
+  },
+  {
+    "word": "los tambores",
+    "definition": "the drums"
+  },
+  {
+    "word": "la trompeta",
+    "definition": "the trumpet"
+  },
+  {
+    "word": "el piano",
+    "definition": "the piano"
+  },
+  {
+    "word": "el director",
+    "definition": "the conductor"
+  },
+  {
+    "word": "la letra",
+    "definition": "the lyrics"
+  },
+  {
+    "word": "el órgano",
+    "definition": "the organ"
+  },
+  {
+    "word": "el cofre",
+    "definition": "the hood"
+  },
+  {
+    "word": "las luces de lanteras",
+    "definition": "the head lights"
+  },
+  {
+    "word": "las luces traseras",
+    "definition": "the tail lights"
+  },
+  {
+    "word": "el acelerador",
+    "definition": "the gaspedal"
+  },
+  {
+    "word": "los frenos",
+    "definition": "the brakes"
+  },
+  {
+    "word": "la cajuela",
+    "definition": "the trunk"
+  },
+  {
+    "word": "el motor",
+    "definition": "the engine"
+  },
+  {
+    "word": "el parabrisas",
+    "definition": "the windshield"
+  },
+  {
+    "word": "la ventana",
+    "definition": "the window"
+  },
+  {
+    "word": "la rueda",
+    "definition": "the wheel"
+  },
+  {
+    "word": "la llanta",
+    "definition": "the tire"
+  },
+  {
+    "word": "el eje",
+    "definition": "the axel"
+  },
+  {
+    "word": "el claxon",
+    "definition": "the horn"
+  },
+  {
+    "word": "el volante",
+    "definition": "the steering wheel"
+  },
+  {
+    "word": "el chofer",
+    "definition": "the driver"
+  },
+  {
+    "word": "la gasolina",
+    "definition": "the gas"
+  },
+  {
+    "word": "el tanque",
+    "definition": "the gas tank"
+  },
+  {
+    "word": "los limpiaparabrisas",
+    "definition": "the wipers"
+  },
+  {
+    "word": "la transmisión automática",
+    "definition": "the automatic transmission"
+  },
+  {
+    "word": "la transmisión manual",
+    "definition": "the manual transmission"
+  },
+  {
+    "word": "primera velocidad",
+    "definition": "first gear"
+  },
+  {
+    "word": "la palanca de velocidades",
+    "definition": "the gearshift"
+  },
+  {
+    "word": "la señal decambios",
+    "definition": "the turn signal"
+  },
+  {
+    "word": "el parachoques",
+    "definition": "the bumper"
+  },
+  {
+    "word": "la visera",
+    "definition": "the visor"
+  },
+  {
+    "word": "el espejo retrovisor",
+    "definition": "the rearview mirror"
+  },
+  {
+    "word": "el gato",
+    "definition": "the jack"
+  },
+  {
+    "word": "la llanta de repuesto",
+    "definition": "the spare tire"
+  },
+  {
+    "word": "laquemacoco",
+    "definition": "the sunroof"
+  },
+  {
+    "word": "el cinturón",
+    "definition": "the seatbelt"
+  },
+  {
+    "word": "la familia",
+    "definition": "the family"
+  },
+  {
+    "word": "la mamá",
+    "definition": "the mom"
+  },
+  {
+    "word": "el papá",
+    "definition": "the dad"
+  },
+  {
+    "word": "el hermano",
+    "definition": "the brother"
+  },
+  {
+    "word": "la hermana",
+    "definition": "the sister"
+  },
+  {
+    "word": "la tía",
+    "definition": "the aunt"
+  },
+  {
+    "word": "el tío",
+    "definition": "the uncle"
+  },
+  {
+    "word": "los abuelos",
+    "definition": "the grandparents"
+  },
+  {
+    "word": "la abuela",
+    "definition": "the grandma"
+  },
+  {
+    "word": "el abuelo",
+    "definition": "the grandpa"
+  },
+  {
+    "word": "los primos",
+    "definition": "the cousins"
+  },
+  {
+    "word": "el sobrino",
+    "definition": "the nephew"
+  },
+  {
+    "word": "el cuñado",
+    "definition": "the brother-in-law"
+  },
+  {
+    "word": "la cuñada",
+    "definition": "the sister-in-law"
+  },
+  {
+    "word": "la suegra",
+    "definition": "the mother-in-law"
+  },
+  {
+    "word": "el suegro",
+    "definition": "the father-in-law"
+  },
+  {
+    "word": "el novio",
+    "definition": "the fiancé"
+  },
+  {
+    "word": "el hijo",
+    "definition": "the son"
+  },
+  {
+    "word": "la hija",
+    "definition": "the daughter"
+  },
+  {
+    "word": "la nuera",
+    "definition": "the daughter-in-law"
+  },
+  {
+    "word": "el yerno",
+    "definition": "the son-in-law"
+  },
+  {
+    "word": "las relaciones",
+    "definition": "the relationships"
+  },
+  {
+    "word": "el amigo",
+    "definition": "the friend"
+  },
+  {
+    "word": "el novio",
+    "definition": "the boy friend"
+  },
+  {
+    "word": "el marido",
+    "definition": "husband"
+  },
+  {
+    "word": "la esposa",
+    "definition": "wife"
+  },
+  {
+    "word": "la madre",
+    "definition": "the mother"
+  },
+  {
+    "word": "el padre",
+    "definition": "the father"
+  },
+  {
+    "word": "la sobrina",
+    "definition": "the niece"
+  },
+  {
+    "word": "el limón",
+    "definition": "the lemon"
+  },
+  {
+    "word": "la lima",
+    "definition": "the lime"
+  },
+  {
+    "word": "los frijoles",
+    "definition": "the beans"
+  },
+  {
+    "word": "el tomate",
+    "definition": "the tomato"
+  },
+  {
+    "word": "la remolacha",
+    "definition": "the beet"
+  },
+  {
+    "word": "el rábano",
+    "definition": "the radish"
+  },
+  {
+    "word": "la spalomitasdemaíz",
+    "definition": "the popcorn"
+  },
+  {
+    "word": "la mantequilla",
+    "definition": "the butter"
+  },
+  {
+    "word": "la miel",
+    "definition": "the honey"
+  },
+  {
+    "word": "la nuez",
+    "definition": "the nut"
+  },
+  {
+    "word": "el maní",
+    "definition": "the peanut"
+  },
+  {
+    "word": "la mermelada",
+    "definition": "the jam"
+  },
+  {
+    "word": "la jalea",
+    "definition": "the jelly"
+  },
+  {
+    "word": "la mantequilla de maní",
+    "definition": "the peanut butter"
+  },
+  {
+    "word": "el jugo",
+    "definition": "the juice"
+  },
+  {
+    "word": "el dulce",
+    "definition": "the candy"
+  },
+  {
+    "word": "la mayonesa",
+    "definition": "the mayonnaise"
+  },
+  {
+    "word": "el kéchup",
+    "definition": "the ketchup"
+  },
+  {
+    "word": "la mostaza",
+    "definition": "the mustard"
+  },
+  {
+    "word": "la piña",
+    "definition": "the pineapple"
+  },
+  {
+    "word": "la banana",
+    "definition": "the banana"
+  },
+  {
+    "word": "el durazno",
+    "definition": "the peach"
+  },
+  {
+    "word": "el albaricoque",
+    "definition": "the apricot"
+  },
+  {
+    "word": "la pera",
+    "definition": "the pear"
+  },
+  {
+    "word": "la uva",
+    "definition": "the grape"
+  },
+  {
+    "word": "la pasa",
+    "definition": "the raisin"
+  },
+  {
+    "word": "la harina",
+    "definition": "the flour"
+  },
+  {
+    "word": "la comida",
+    "definition": "the food"
+  },
+  {
+    "word": "el aperitivo",
+    "definition": "the appetizer"
+  },
+  {
+    "word": "el aguacate",
+    "definition": "the avocado"
+  },
+  {
+    "word": "la carnederes",
+    "definition": "the beef"
+  },
+  {
+    "word": "el desayuno",
+    "definition": "the breakfast"
+  },
+  {
+    "word": "la coliflor",
+    "definition": "the cauliflower"
+  },
+  {
+    "word": "el apio",
+    "definition": "the celery"
+  },
+  {
+    "word": "el queso",
+    "definition": "the cheese"
+  },
+  {
+    "word": "el pollo",
+    "definition": "the chicken"
+  },
+  {
+    "word": "el postre",
+    "definition": "the dessert"
+  },
+  {
+    "word": "la cena",
+    "definition": "the dinner"
+  },
+  {
+    "word": "el huevo",
+    "definition": "the egg"
+  },
+  {
+    "word": "el pescado",
+    "definition": "the fish (cooked)"
+  },
+  {
+    "word": "la hamburguesa",
+    "definition": "the hamburger"
+  },
+  {
+    "word": "el hotdog",
+    "definition": "the hotdog"
+  },
+  {
+    "word": "las papas fritas",
+    "definition": "the french fries"
+  },
+  {
+    "word": "el almuerzo",
+    "definition": "the lunch"
+  },
+  {
+    "word": "la lechuga",
+    "definition": "the lettuce"
+  },
+  {
+    "word": "el plato principal",
+    "definition": "the main dish"
+  },
+  {
+    "word": "la leche",
+    "definition": "the milk"
+  },
+  {
+    "word": "el puerco",
+    "definition": "the pork"
+  },
+  {
+    "word": "las papas",
+    "definition": "the potatoes"
+  },
+  {
+    "word": "la ensalada",
+    "definition": "the salad"
+  },
+  {
+    "word": "el sándwich",
+    "definition": "the sandwich"
+  },
+  {
+    "word": "la sopa",
+    "definition": "the soup"
+  },
+  {
+    "word": "el azúcar",
+    "definition": "the sugar"
+  },
+  {
+    "word": "el pavo",
+    "definition": "the turkey"
+  },
+  {
+    "word": "el agua",
+    "definition": "the water"
+  },
+  {
+    "word": "el helado",
+    "definition": "ice-cream"
+  },
+  {
+    "word": "el babero",
+    "definition": "bib"
+  },
+  {
+    "word": "el biberón",
+    "definition": "bottle"
+  },
+  {
+    "word": "los bloques",
+    "definition": "blocks"
+  },
+  {
+    "word": "el carrito",
+    "definition": "stroller"
+  },
+  {
+    "word": "el chupador, el chupete",
+    "definition": "pacifier"
+  },
+  {
+    "word": "la cuna",
+    "definition": "crib"
+  },
+  {
+    "word": "la bañera",
+    "definition": "bathtub"
+  },
+  {
+    "word": "el botiquín",
+    "definition": "medicine cabinet"
+  },
+  {
+    "word": "la cañería",
+    "definition": "the pipe"
+  },
+  {
+    "word": "el champú",
+    "definition": "shampoo"
+  },
+  {
+    "word": "el cortinero",
+    "definition": "curtain rod"
+  },
+  {
+    "word": "el desagüe",
+    "definition": "drain"
+  },
+  {
+    "word": "la ducha",
+    "definition": "shower"
+  },
+  {
+    "word": "el espejo",
+    "definition": "the mirror"
+  },
+  {
+    "word": "el abrelatas",
+    "definition": "can opener"
+  },
+  {
+    "word": "el brillo, el estropajo",
+    "definition": "scouring pad"
+  },
+  {
+    "word": "la cacerola",
+    "definition": "casserole dish"
+  },
+  {
+    "word": "el caldero",
+    "definition": "pot"
+  },
+  {
+    "word": "el candil",
+    "definition": "chandelier"
+  },
+  {
+    "word": "el chinero, el aparador",
+    "definition": "china cabinet"
+  },
+  {
+    "word": "el colador",
+    "definition": "colander"
+  },
+  {
+    "word": "el congelador",
+    "definition": "the freezer"
+  },
+  {
+    "word": "la cuchara",
+    "definition": "knife"
+  },
+  {
+    "word": "el destapador",
+    "definition": "bottle opener"
+  },
+  {
+    "word": "el escurridor",
+    "definition": "dish drainer"
+  },
+  {
+    "word": "la estufa",
+    "definition": "stove"
+  },
+  {
+    "word": "el fregadero",
+    "definition": "sink"
+  },
+  {
+    "word": "el gabinete",
+    "definition": "cabinet"
+  },
+  {
+    "word": "el horno",
+    "definition": "oven"
+  },
+  {
+    "word": "el horno microondas",
+    "definition": "microwave"
+  },
+  {
+    "word": "la jarra",
+    "definition": "pitcher"
+  },
+  {
+    "word": "la latería",
+    "definition": "canister"
+  },
+  {
+    "word": "la aspiradora",
+    "definition": "vacuum"
+  },
+  {
+    "word": "el calentador de agua",
+    "definition": "the water heater"
+  },
+  {
+    "word": "la escoba",
+    "definition": "broom"
+  },
+  {
+    "word": "la lavadora",
+    "definition": "washing machine"
+  },
+  {
+    "word": "la limpiadora",
+    "definition": "mop"
+  },
+  {
+    "word": "la cama",
+    "definition": "the bed"
+  },
+  {
+    "word": "la mesita de noche",
+    "definition": "the nightstand"
+  },
+  {
+    "word": "la cómoda",
+    "definition": "the dresser"
+  },
+  {
+    "word": "la almohada",
+    "definition": "the pillow"
+  },
+  {
+    "word": "la cobija",
+    "definition": "the blanket"
+  },
+  {
+    "word": "la escalera",
+    "definition": "staircase"
+  },
+  {
+    "word": "el jarrón",
+    "definition": "vase"
+  },
+  {
+    "word": "la lámpara",
+    "definition": "lamp"
+  },
+  {
+    "word": "la mesita",
+    "definition": "end table"
+  },
+  {
+    "word": "la mesita central",
+    "definition": "coffee table"
+  },
+  {
+    "word": "la pared",
+    "definition": "wall"
+  },
+  {
+    "word": "la pintura",
+    "definition": "painting"
+  },
+  {
+    "word": "la repisa",
+    "definition": "mantel"
+  },
+  {
+    "word": "el sofá",
+    "definition": "sofa"
+  },
+  {
+    "word": "el sillón",
+    "definition": "recliner"
+  },
+  {
+    "word": "los alicates",
+    "definition": "pliers"
+  },
+  {
+    "word": "la caja de herramientas",
+    "definition": "toolbox"
+  },
+  {
+    "word": "la cinta métrica",
+    "definition": "tape measure"
+  },
+  {
+    "word": "el destornillador",
+    "definition": "screwdriver"
+  },
+  {
+    "word": "la escofina",
+    "definition": "rasp"
+  },
+  {
+    "word": "el formón",
+    "definition": "chisel"
+  },
+  {
+    "word": "la lima",
+    "definition": "file"
+  },
+  {
+    "word": "el boleto",
+    "definition": "ticket"
+  },
+  {
+    "word": "el bolso de mano",
+    "definition": "carry-on"
+  },
+  {
+    "word": "el detector de metales",
+    "definition": "metal detector"
+  },
+  {
+    "word": "el equipaje",
+    "definition": "baggage"
+  },
+  {
+    "word": "la cuenta",
+    "definition": "check"
+  },
+  {
+    "word": "el cocinero",
+    "definition": "cook"
+  },
+  {
+    "word": "el menú",
+    "definition": "menu"
+  },
+  {
+    "word": "la agencia de viajes",
+    "definition": "travel agency"
+  },
+  {
+    "word": "la carnicería",
+    "definition": "butcher"
+  },
+  {
+    "word": "la confitería",
+    "definition": "sweet shop"
+  },
+  {
+    "word": "la gasolinera",
+    "definition": "gas station"
+  },
+  {
+    "word": "los grandes almacenes",
+    "definition": "department store"
+  },
+  {
+    "word": "la floristería",
+    "definition": "flower shop"
+  },
+  {
+    "word": "la panadería",
+    "definition": "bakery"
+  },
+  {
+    "word": "la papelería",
+    "definition": "stationers"
+  },
+  {
+    "word": "las aletas",
+    "definition": "flippers"
+  },
+  {
+    "word": "la arena",
+    "definition": "sand"
+  },
+  {
+    "word": "el alga",
+    "definition": "seaweed"
+  },
+  {
+    "word": "el castillo de arena",
+    "definition": "the sand castle"
+  },
+  {
+    "word": "la crema bronceadora",
+    "definition": "sunscreen"
+  },
+  {
+    "word": "la duna",
+    "definition": "dune"
+  },
+  {
+    "word": "las gafas del sol",
+    "definition": "sunglasses"
+  },
+  {
+    "word": "los lentes de sol",
+    "definition": "the sunglasses"
+  },
+  {
+    "word": "los apartamentos",
+    "definition": "apartment building"
+  },
+  {
+    "word": "el ascensor",
+    "definition": "elevator"
+  },
+  {
+    "word": "la banca",
+    "definition": "bench"
+  },
+  {
+    "word": "el basurero",
+    "definition": "trashcan"
+  },
+  {
+    "word": "el cruce",
+    "definition": "intersection"
+  },
+  {
+    "word": "el edificio",
+    "definition": "building"
+  },
+  {
+    "word": "el edificio de oficinas",
+    "definition": "office building"
+  },
+  {
+    "word": "la esquina",
+    "definition": "corner"
+  },
+  {
+    "word": "el tornado",
+    "definition": "the tornado"
+  },
+  {
+    "word": "el huracán",
+    "definition": "the hurricane"
+  },
+  {
+    "word": "el inundación de agua",
+    "definition": "the flood"
+  },
+  {
+    "word": "la lluvia",
+    "definition": "the rain"
+  },
+  {
+    "word": "la nieve",
+    "definition": "the snow"
+  },
+  {
+    "word": "nublado",
+    "definition": "cloudy"
+  },
+  {
+    "word": "hace sol",
+    "definition": "it's sunny"
+  },
+  {
+    "word": "el sol",
+    "definition": "the sun"
+  },
+  {
+    "word": "frío",
+    "definition": "cold"
+  },
+  {
+    "word": "la cuna mecedora",
+    "definition": "cradle"
+  },
+  {
+    "word": "el móvil",
+    "definition": "mobile"
+  },
+  {
+    "word": "el oso de peluche",
+    "definition": "teddy bear"
+  },
+  {
+    "word": "el pañal",
+    "definition": "diaper"
+  },
+  {
+    "word": "la tetilla",
+    "definition": "nipple"
+  },
+  {
+    "word": "la esponja",
+    "definition": "sponge"
+  },
+  {
+    "word": "el gorro de baño",
+    "definition": "shower cap"
+  },
+  {
+    "word": "el excusado",
+    "definition": "toilet"
+  },
+  {
+    "word": "el jabón",
+    "definition": "soap"
+  },
+  {
+    "word": "la jabonera",
+    "definition": "soap dish"
+  },
+  {
+    "word": "el lavamanos",
+    "definition": "sink"
+  },
+  {
+    "word": "la tina",
+    "definition": "the bathtub"
+  },
+  {
+    "word": "la toalla",
+    "definition": "towel"
+  },
+  {
+    "word": "el lavaplatos",
+    "definition": "the dish washer"
+  },
+  {
+    "word": "la licuadora",
+    "definition": "blender"
+  },
+  {
+    "word": "la loza",
+    "definition": "china"
+  },
+  {
+    "word": "la mesa",
+    "definition": "table"
+  },
+  {
+    "word": "la nevera",
+    "definition": "refrigerator"
+  },
+  {
+    "word": "la olla",
+    "definition": "saucepan"
+  },
+  {
+    "word": "el plato",
+    "definition": "plate"
+  },
+  {
+    "word": "el pimentero",
+    "definition": "pepper shaker"
+  },
+  {
+    "word": "el refrigerador",
+    "definition": "the fridge"
+  },
+  {
+    "word": "el salero",
+    "definition": "salt shaker"
+  },
+  {
+    "word": "la sartén",
+    "definition": "frying pan"
+  },
+  {
+    "word": "la servilleta",
+    "definition": "napkin"
+  },
+  {
+    "word": "la tapa",
+    "definition": "lid"
+  },
+  {
+    "word": "el tenedor",
+    "definition": "fork"
+  },
+  {
+    "word": "el tostador",
+    "definition": "the toaster"
+  },
+  {
+    "word": "la vaporera",
+    "definition": "steamer"
+  },
+  {
+    "word": "el vaso",
+    "definition": "glass"
+  },
+  {
+    "word": "la plancha",
+    "definition": "iron"
+  },
+  {
+    "word": "el recogedor",
+    "definition": "dustpan"
+  },
+  {
+    "word": "la secadora",
+    "definition": "dryer"
+  },
+  {
+    "word": "los trapos",
+    "definition": "rags"
+  },
+  {
+    "word": "el despertador",
+    "definition": "the alarm clock"
+  },
+  {
+    "word": "las sábanas",
+    "definition": "the sheets"
+  },
+  {
+    "word": "el armario",
+    "definition": "the closet"
+  },
+  {
+    "word": "el colgador",
+    "definition": "the hanger"
+  },
+  {
+    "word": "el techo",
+    "definition": "ceiling"
+  },
+  {
+    "word": "los muebles",
+    "definition": "the furniture"
+  },
+  {
+    "word": "la mesa",
+    "definition": "the table"
+  },
+  {
+    "word": "la cama",
+    "definition": "the bed"
+  },
+  {
+    "word": "el sillón",
+    "definition": "the armchair"
+  },
+  {
+    "word": "la silla",
+    "definition": "the chair"
+  },
+  {
+    "word": "el escritorio",
+    "definition": "the desk"
+  },
+  {
+    "word": "el piano",
+    "definition": "the piano"
+  },
+  {
+    "word": "el basurero",
+    "definition": "the garbage can"
+  },
+  {
+    "word": "la llave inglesa, la llave",
+    "definition": "wrench"
+  },
+  {
+    "word": "el martillo",
+    "definition": "hammer"
+  },
+  {
+    "word": "el serrucho de carpintero",
+    "definition": "carpenter's saw"
+  },
+  {
+    "word": "la sierra de calar",
+    "definition": "coping saw"
+  },
+  {
+    "word": "la sierra para metales",
+    "definition": "hacksaw"
+  },
+  {
+    "word": "el tornillo",
+    "definition": "clamp, vise, screw"
+  },
+  {
+    "word": "el guardia",
+    "definition": "security guard"
+  },
+  {
+    "word": "la maleta",
+    "definition": "suitcase"
+  },
+  {
+    "word": "el porta ropa",
+    "definition": "garment bag"
+  },
+  {
+    "word": "la mesa",
+    "definition": "table"
+  },
+  {
+    "word": "la mesera, la camarera",
+    "definition": "waitress"
+  },
+  {
+    "word": "la pastelería",
+    "definition": "cake shop"
+  },
+  {
+    "word": "la peluquería",
+    "definition": "hairdressers"
+  },
+  {
+    "word": "la pescadería",
+    "definition": "fish shop"
+  },
+  {
+    "word": "la tienda de fotografía",
+    "definition": "photo shop"
+  },
+  {
+    "word": "el bolso",
+    "definition": "the bag"
+  },
+  {
+    "word": "la oferta",
+    "definition": "the sale"
+  },
+  {
+    "word": "la venta de liquidación",
+    "definition": "the clearance sale"
+  },
+  {
+    "word": "el mar",
+    "definition": "sea"
+  },
+  {
+    "word": "la marea",
+    "definition": "tide"
+  },
+  {
+    "word": "la onda",
+    "definition": "the wave"
+  },
+  {
+    "word": "la orilla",
+    "definition": "the shore"
+  },
+  {
+    "word": "la toalla",
+    "definition": "towel"
+  },
+  {
+    "word": "el traje de baño",
+    "definition": "swimsuit"
+  },
+  {
+    "word": "la sombrilla",
+    "definition": "parasol"
+  },
+  {
+    "word": "el letrero",
+    "definition": "street sign"
+  },
+  {
+    "word": "la oficina de correos",
+    "definition": "post office"
+  },
+  {
+    "word": "el paradero de autobuses",
+    "definition": "bus stop"
+  },
+  {
+    "word": "el policía de tránsito",
+    "definition": "traffic cop"
+  },
+  {
+    "word": "el recibidor",
+    "definition": "lobby"
+  },
+  {
+    "word": "el semáforo",
+    "definition": "traffic light"
+  },
+  {
+    "word": "la vía peatonal",
+    "definition": "crosswalk"
+  },
+  {
+    "word": "calor",
+    "definition": "hot"
+  },
+  {
+    "word": "la temperatura",
+    "definition": "the temperature"
+  },
+  {
+    "word": "el termómetro",
+    "definition": "the thermometer"
+  },
+  {
+    "word": "nebuloso",
+    "definition": "foggy"
+  },
+  {
+    "word": "la neblina",
+    "definition": "the fog"
+  },
+  {
+    "word": "ventoso",
+    "definition": "windy"
+  },
+  {
+    "word": "hace viento",
+    "definition": "it's windy"
+  },
+  {
+    "word": "la humedad",
+    "definition": "the humidity"
+  },
+  {
+    "word": "la nube",
+    "definition": "the cloud"
+  }
+]

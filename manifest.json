@@ -1,0 +1,17 @@
+{
+  "name": "Spanish Vocab Extension",
+  "version": "1.0",
+  "description": "See new spanish vocabulary while opening new tabs",
+  "permissions": ["tabs", "storage"],
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": true
+  },
+  "chrome_url_overrides" : {
+    "newtab": "newTab.html"
+  },
+  "web_accessible_resources": [
+    "data/vocab.json"
+  ],
+  "manifest_version": 2
+}
