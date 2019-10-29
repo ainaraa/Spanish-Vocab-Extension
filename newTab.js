@@ -10,9 +10,6 @@ const url = chrome.runtime.getURL('./data/vocab.json');
 console.log("Loading vocab from " + url);
 const promiseJson = fetch(url).then((response) => response.json());
 loadVocab(promiseJson);
-chrome.storage.local.set({'vocab': promiseJson}, function () {
-        console.log('Saved vocab');
-});
 
 document.getElementById('playback').addEventListener("click", function(){
         const msg = new SpeechSynthesisUtterance();
